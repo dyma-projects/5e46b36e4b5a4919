@@ -12,4 +12,8 @@ export class Exercice2Component implements OnInit {
   ngOnInit() {
   }
 
+  displayClique(): void {
+    console.log("click !");
+  }
+
 }
